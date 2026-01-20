@@ -50,7 +50,7 @@ function App() {
         <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div>
             <h1 style={{ fontSize: '1.5rem', color: 'var(--accent-primary)' }}>Antigravity Options</h1>
-            <p style={{ color: 'var(--text-secondary)', fontSize: '0.875rem' }}>SET50 Index Strategy Visualizer</p>
+            <p style={{ color: 'var(--text-secondary)', fontSize: '0.875rem' }}>Strategy Visualizer</p>
           </div>
           <div className="card" style={{ padding: '0.5rem 1rem', display: 'flex', gap: '1rem', alignItems: 'center' }}>
             <Settings size={16} color="var(--text-secondary)" />
